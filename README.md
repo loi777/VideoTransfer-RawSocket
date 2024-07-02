@@ -1,0 +1,1 @@
+Use make to generate executable file.
