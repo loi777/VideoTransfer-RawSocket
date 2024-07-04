@@ -2,7 +2,7 @@
 void FM_getDirAtTerminal();
 
 // Print the Directory path that the code is in at the moment
-void FM_printDir();
+void FM_printDirPath();
 
 // Print the Video files in the current folder path
 // video files valid: .mp4 | .webm
