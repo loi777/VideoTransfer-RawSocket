@@ -39,7 +39,7 @@ void FM_getDirAtTerminal() {
 
 
 // Print the Directory path that the code is in at the moment
-void FM_printDir() {
+void FM_printDirPath() {
     printf("%s\n", FolderDirPath);
 }
 
